@@ -1,0 +1,17 @@
+commit 1b7102a94709a442a713ca7543e85838d554b363
+Author: Alejandra <cibercomputo1AJJ@gmail.com>
+Date:   Wed Sep 21 20:29:04 2016 -0500
+
+    Modificamos el cuerpo y el estilo
+
+commit 8fe413143b1d791f5af648619bed550b8a7d67b3
+Author: Alejandra <cibercomputo1AJJ@gmail.com>
+Date:   Wed Sep 21 20:24:12 2016 -0500
+
+    Modificamos el titulo
+
+commit 94d420698b7ffa58dfdd2ee22ba3eab331b3c2bf
+Author: Alejandra <cibercomputo1AJJ@gmail.com>
+Date:   Wed Sep 21 20:20:20 2016 -0500
+
+    Este es el Principio
